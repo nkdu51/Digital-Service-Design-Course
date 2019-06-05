@@ -1,0 +1,89 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+main{
+    color: #7C7C7C;
+    margin-top: 40px;
+}
+.bg-image {
+    display: block;
+    background: url(../images/london-bg.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;  
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+.bg-text{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    text-align: center;
+}
+.bg-title{
+    font-weight: bold;
+    font-size: 80px;
+}
+.bg-subtitle{
+    font-size: 30px;
+}
+.navbar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index:4;
+    font-family: 'Montserrat', sans-serif;
+}
+.navimg{
+    margin-right: 10px;
+}
+.nav-link{
+    padding: 0;
+}
+li.nav-item.active, li.nav-item.dropdown.active{
+    margin-right:25px;
+}
+a.dropdown-item.dropdown-toggle{
+    padding-left:15px;
+}
+.dropdown-menu.thingsToDo, div.dropdown-menu.show {
+    margin:10px;
+}
+ul.dropdown-menu.attractions.show{
+    margin-left:10px;
+    margin-top:-10px;
+}
+
+.card{
+    border:none;
+}
+
+h2.card-title{
+    padding-top: 250px;
+}
+
+.home-map{
+    position: relative;
+    text-align: center;
+}
+
+.map-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.footer{
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    background-color: #7C7C7C;
+    color: white;
+    height: 60px;
+}

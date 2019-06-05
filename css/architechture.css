@@ -1,0 +1,1710 @@
+body {
+		margin: 0;
+		padding: 0;
+	}
+:root {
+		--web-view-ids: Architecture;
+	}
+
+.secondary{
+	float: center;
+}
+
+#Architecture * {
+		margin: 0;
+		padding: 0;
+	}
+#Architecture {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 1920px;
+		height: 2486px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: Architecture;
+		--web-view-id: Architecture;
+		--web-enable-deep-linking: true;
+	}
+#Footer {
+		opacity: 1;
+		position: absolute;
+		width: 1920px;
+		height: 167px;
+		left: 0px;
+		top: 2322px;
+		overflow: visible;
+	}
+#Rectangle_5 {
+		opacity: 1;
+		fill: rgba(124,124,124,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 167px;
+		left: 0px;
+		top: 0px;
+	}
+#Copyright___2019_Design_Squad_ {
+		opacity: 1;
+		position: absolute;
+		left: 613px;
+		top: 53px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 695px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+#NoPath___Copy__14_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__14__A1_Rectangle_3_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.NoPath___Copy__14_ {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 450px;
+		left: 0px;
+		top: 150px;
+	}
+#Architecture_ {
+		opacity: 1;
+		position: absolute;
+		left: 73px;
+		top: 483px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 440px;
+		height: 115px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 75px;
+		color: rgba(255,255,255,1);
+	}
+#Path_7 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Path_7 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 678px;
+		left: 73px;
+		width: 535px;
+		height: 739px;
+	}
+#Westminster__Abbey {
+		opacity: 1;
+		position: absolute;
+		left: 110px;
+		top: 1169px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 218px;
+		white-space: nowrap;
+		line-height: 38px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+#A_marvelous_gothic_abbey_visit {
+		opacity: 1;
+		position: absolute;
+		left: 110px;
+		top: 1261px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 460px;
+		height: 110px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_caro_2_filled_100__1_ {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A1_Rectangle_5_pattern);
+	}
+.icons8_caro_2_filled_100__1_ {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 112px;
+		top: 1349px;
+	}
+#From__20 {
+		opacity: 1;
+		position: absolute;
+		left: 171px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_reloj_100 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A1_Rectangle_7_pattern);
+	}
+.icons8_reloj_100 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 301px;
+		top: 1354px;
+	}
+#ID9_30_15_30 {
+		opacity: 1;
+		position: absolute;
+		left: 351px;
+		top: 1356px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Group_27 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 688px;
+		top: 678px;
+		overflow: visible;
+	}
+#Rectangle_10 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Rectangle_10 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+#St_Paul_s__Cathedral {
+		opacity: 1;
+		position: absolute;
+		left: 36px;
+		top: 497px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 340px;
+		height: 81px;
+		line-height: 38px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+#One_of_London_s_top_attraction {
+		opacity: 1;
+		position: absolute;
+		left: 36px;
+		top: 564px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 469px;
+		height: 104px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+#NoPath___Copy {
+		opacity: 1;
+		fill: url(#NoPath___Copy_A1_Rectangle_10_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.NoPath___Copy {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+#icons8_caro_2_filled_100__1__A1_Rectangle_11 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A1_Rectangle_12_pattern);
+	}
+.icons8_caro_2_filled_100__1__A1_Rectangle_11 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 38px;
+		top: 671px;
+	}
+#From__16 {
+		opacity: 1;
+		position: absolute;
+		left: 97px;
+		top: 678px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_reloj_100_A1_Rectangle_13 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A1_Rectangle_14_pattern);
+	}
+.icons8_reloj_100_A1_Rectangle_13 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 227px;
+		top: 676px;
+	}
+#ID8_30_16_30 {
+		opacity: 1;
+		position: absolute;
+		left: 277px;
+		top: 678px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Group_28 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 1303px;
+		top: 678px;
+		overflow: visible;
+	}
+#Path_16 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Path_16 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 535px;
+		height: 739px;
+	}
+#Houses__of_Parliament {
+		opacity: 1;
+		position: absolute;
+		left: 39px;
+		top: 489px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 221px;
+		white-space: nowrap;
+		line-height: 38px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+#Admire_a_building_where_more_t {
+		opacity: 1;
+		position: absolute;
+		left: 36px;
+		top: 579px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 464px;
+		height: 107px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+#NoPath___Copy__2_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__2__A1_Rectangle_16_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.NoPath___Copy__2_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+#icons8_caro_2_filled_100__1__A1_Rectangle_17 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A1_Rectangle_18_pattern);
+	}
+.icons8_caro_2_filled_100__1__A1_Rectangle_17 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 38px;
+		top: 669px;
+	}
+#From__18 {
+		opacity: 1;
+		position: absolute;
+		left: 97px;
+		top: 676px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_reloj_100_A1_Rectangle_19 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A1_Rectangle_20_pattern);
+	}
+.icons8_reloj_100_A1_Rectangle_19 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 227px;
+		top: 674px;
+	}
+#ID8_30_16_30_A1_Text_14 {
+		opacity: 1;
+		position: absolute;
+		left: 277px;
+		top: 676px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Group_29 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 73px;
+		top: 1497px;
+		overflow: visible;
+	}
+#Rectangle_10_A1_Rectangle_21 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Rectangle_10_A1_Rectangle_21 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+#St__Pancras {
+		opacity: 1;
+		position: absolute;
+		left: 43px;
+		top: 487px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+#Renaissance_London_Hotel_stret {
+		opacity: 1;
+		position: absolute;
+		left: 43px;
+		top: 561px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 458px;
+		height: 102px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+#NoPath___Copy__3_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__3__A1_Rectangle_23_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.NoPath___Copy__3_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+#Group_30 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 688px;
+		top: 1497px;
+		overflow: visible;
+	}
+#Rectangle_10_A1_Rectangle_24 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Rectangle_10_A1_Rectangle_24 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+#National_Theatre {
+		opacity: 1;
+		position: absolute;
+		left: 36px;
+		top: 492px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 343px;
+		height: 74px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+#One_of_London_s_foremost_bruta {
+		opacity: 1;
+		position: absolute;
+		left: 36px;
+		top: 561px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 469px;
+		height: 97px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+#NoPath___Copy__4_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__4__A1_Rectangle_26_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.NoPath___Copy__4_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+#Group_31 {
+		opacity: 1;
+		position: absolute;
+		width: 535px;
+		height: 739px;
+		left: 1303px;
+		top: 1497px;
+		overflow: visible;
+	}
+#Rectangle_10_A1_Rectangle_27 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Rectangle_10_A1_Rectangle_27 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 739px;
+		left: 0px;
+		top: 0px;
+	}
+#The_Gherkin_ {
+		opacity: 1;
+		position: absolute;
+		left: 37px;
+		top: 492px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 342px;
+		height: 74px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(73,73,73,1);
+		letter-spacing: 0.2px;
+	}
+#_It_is_situated_in_the_heart_o {
+		opacity: 1;
+		position: absolute;
+		left: 37px;
+		top: 561px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 462px;
+		height: 97px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(73,73,73,1);
+	}
+#NoPath___Copy__5_ {
+		opacity: 1;
+		fill: url(#NoPath___Copy__5__A1_Rectangle_29_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.NoPath___Copy__5_ {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 0px;
+		top: 0px;
+	}
+#Path_5 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+.Path_5 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1177.167px;
+		left: 437px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+#More_Info {
+		opacity: 1;
+		position: absolute;
+		left: 454.174px;
+		top: 1180.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+#Path_8 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+.Path_8 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1990.167px;
+		left: 438px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+#More_Info_A1_Text_22 {
+		opacity: 1;
+		position: absolute;
+		left: 455.174px;
+		top: 1993.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+#Path_9 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+.Path_9 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1175.167px;
+		left: 1056px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+#More_Info_A1_Text_23 {
+		opacity: 1;
+		position: absolute;
+		left: 1073.174px;
+		top: 1178.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+#Path_10 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+.Path_10 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1989.167px;
+		left: 1057px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+#More_Info_A1_Text_24 {
+		opacity: 1;
+		position: absolute;
+		left: 1074.174px;
+		top: 1992.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+#Path_11 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+.Path_11 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1175.167px;
+		left: 1671px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+#More_Info_A1_Text_25 {
+		opacity: 1;
+		position: absolute;
+		left: 1688.174px;
+		top: 1178.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+#Path_12 {
+		opacity: 1;
+		fill: rgba(233,198,214,1);
+	}
+.Path_12 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 1987.167px;
+		left: 1670px;
+		width: 132.108px;
+		height: 38.833px;
+	}
+#More_Info_A1_Text_26 {
+		opacity: 1;
+		position: absolute;
+		left: 1687.174px;
+		top: 1990.167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 99px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 21px;
+		color: rgba(124,124,124,1);
+	}
+#icons8_caro_2_filled_100__1__A1_Rectangle_30 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A1_Rectangle_31_pattern);
+	}
+.icons8_caro_2_filled_100__1__A1_Rectangle_30 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 111px;
+		top: 2166px;
+	}
+#From__20_A1_Text_27 {
+		opacity: 1;
+		position: absolute;
+		left: 170px;
+		top: 2173px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_reloj_100_A1_Rectangle_32 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A1_Rectangle_33_pattern);
+	}
+.icons8_reloj_100_A1_Rectangle_32 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 300px;
+		top: 2171px;
+	}
+#ID9_30_15_30_A1_Text_28 {
+		opacity: 1;
+		position: absolute;
+		left: 350px;
+		top: 2173px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_caro_2_filled_100__1__A1_Rectangle_34 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A1_Rectangle_35_pattern);
+	}
+.icons8_caro_2_filled_100__1__A1_Rectangle_34 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 726px;
+		top: 2169px;
+	}
+#From__20_A1_Text_29 {
+		opacity: 1;
+		position: absolute;
+		left: 785px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_reloj_100_A1_Rectangle_36 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A1_Rectangle_37_pattern);
+	}
+.icons8_reloj_100_A1_Rectangle_36 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 915px;
+		top: 2174px;
+	}
+#ID12_00_22_30 {
+		opacity: 1;
+		position: absolute;
+		left: 965px;
+		top: 2176px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_caro_2_filled_100__1__A1_Rectangle_38 {
+		opacity: 1;
+		fill: url(#icons8_caro_2_filled_100__1__A1_Rectangle_39_pattern);
+	}
+.icons8_caro_2_filled_100__1__A1_Rectangle_38 {
+		position: absolute;
+		overflow: visible;
+		width: 48px;
+		height: 48px;
+		left: 1339px;
+		top: 2167px;
+	}
+#From__20_A1_Text_31 {
+		opacity: 1;
+		position: absolute;
+		left: 1398px;
+		top: 2174px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 105px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#icons8_reloj_100_A1_Rectangle_40 {
+		opacity: 1;
+		fill: url(#icons8_reloj_100_A1_Rectangle_41_pattern);
+	}
+.icons8_reloj_100_A1_Rectangle_40 {
+		position: absolute;
+		overflow: visible;
+		width: 39px;
+		height: 39px;
+		left: 1528px;
+		top: 2172px;
+	}
+#ID9_30_15_30_A1_Text_32 {
+		opacity: 1;
+		position: absolute;
+		left: 1578px;
+		top: 2174px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Westminster_1_735x450 {
+		opacity: 1;
+		fill: url(#Westminster_1_735x450_A1_Rectangle_43_pattern);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Westminster_1_735x450 {
+		position: absolute;
+		overflow: visible;
+		width: 535px;
+		height: 459px;
+		left: 73px;
+		top: 677px;
+	}
+#NavBarDark {
+		opacity: 1;
+		position: absolute;
+		width: 1823px;
+		height: 100.214px;
+		left: 58px;
+		top: 25px;
+		overflow: visible;
+	}
+#VISIT_LONDON {
+		opacity: 1;
+		position: absolute;
+		left: 116px;
+		top: 30px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 238px;
+		height: 30px;
+		text-align: center;
+		font-family: Tw Cen MT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(73,73,73,1);
+	}
+#Group_11 {
+		opacity: 1;
+		position: absolute;
+		width: 94px;
+		height: 100.214px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+#Ellipse_3 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_3 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 37px;
+		top: 0px;
+	}
+#Path_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Path_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 9.5px;
+		left: 9.5px;
+		width: 76px;
+		height: 75px;
+	}
+#Ellipse_2 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		height: 66px;
+		left: 14.5px;
+		top: 14.5px;
+	}
+#Union_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Union_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 48.5px;
+		left: 47.5px;
+		width: 21.448px;
+		height: 52.399px;
+	}
+#Ellipse_4 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_4 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 63px;
+		top: 5px;
+	}
+#Ellipse_5 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_5 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 51px;
+		top: 1px;
+	}
+#Ellipse_6 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_6 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 80px;
+		top: 22px;
+	}
+#Ellipse_7 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_7 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 73px;
+		top: 12px;
+	}
+#Ellipse_8 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_8 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 84px;
+		top: 48px;
+	}
+#Ellipse_9 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_9 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 84px;
+		top: 34px;
+	}
+#Ellipse_10 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_10 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 73px;
+		top: 70px;
+	}
+#Ellipse_11 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_11 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 80px;
+		top: 60px;
+	}
+#Ellipse_12 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_12 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 63px;
+		top: 78px;
+	}
+#Ellipse_14 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_14 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 37px;
+		top: 83px;
+	}
+#Ellipse_16 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_16 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 14px;
+		top: 73px;
+	}
+#Ellipse_17 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_17 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 6px;
+		top: 64px;
+	}
+#Ellipse_18 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_18 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 1px;
+		top: 53px;
+	}
+#Ellipse_19 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_19 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 0px;
+		top: 41px;
+	}
+#Ellipse_20 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_20 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 1px;
+		top: 29px;
+	}
+#Ellipse_21 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_21 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 6px;
+		top: 19px;
+	}
+#Ellipse_22 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_22 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 14px;
+		top: 9px;
+	}
+#Ellipse_23 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_23 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 25px;
+		top: 3px;
+	}
+#Union_3 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Union_3 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 48.5px;
+		left: 24px;
+		width: 23.438px;
+		height: 52.414px;
+	}
+#Ellipse_24 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_24 {
+		position: absolute;
+		overflow: visible;
+		width: 6px;
+		height: 6px;
+		left: 44px;
+		top: 43px;
+	}
+#Ellipse_13 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(73, 73, 73);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+.Ellipse_13 {
+		position: absolute;
+		overflow: visible;
+		width: 10px;
+		height: 10px;
+		left: 50.5px;
+		top: 83.5px;
+	}
+#Things_to_do_ {
+		opacity: 1;
+		position: absolute;
+		left: 1347px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 152px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Traveller_info_ {
+		opacity: 1;
+		position: absolute;
+		left: 1543px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 149px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Explore {
+		opacity: 1;
+		position: absolute;
+		left: 1719px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 105px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}
+#Home {
+		opacity: 1;
+		position: absolute;
+		left: 1212px;
+		top: 28px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		width: 152px;
+		height: 41px;
+		text-align: left;
+		font-family: Myanmar Text;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 25px;
+		color: rgba(73,73,73,1);
+	}

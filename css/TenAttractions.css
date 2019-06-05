@@ -1,0 +1,141 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+}
+
+main {
+    color: #7C7C7C;
+    margin-top: 60px;
+}
+
+.bg-text {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    color: grey !important;
+}
+
+.navimg {
+    margin-right: 10px;
+}
+
+.nav-link {
+    padding: 0;
+    color: grey !important;
+}
+
+li.nav-item.active,
+li.nav-item.dropdown.active {
+    margin-right: 25px;
+}
+
+a.dropdown-item.dropdown-toggle {
+    padding-left: 15px;
+}
+
+.dropdown-menu.thingsToDo,
+div.dropdown-menu.show {
+    margin: 10px;
+}
+
+ul.dropdown-menu.attractions.show {
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.divider {
+    margin: 10px 0 30px 0;
+}
+
+
+/* Page switch buttuns */
+
+.btn-primary {
+    width: 100px;
+    background-color: #FFF0F5;
+    color: gray;
+    border: 0;
+    border-radius: 25px;
+}
+
+.btn-primary:hover {
+    background-color: #FFD700;
+    color: gray;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle {
+    background-color: #E9C6D6;
+    color: gray;
+}
+/* Page switch buttuns */
+
+.card {
+    border: none;
+    border-radius: 0;
+    height: inherit;
+}
+
+.card-text{
+    padding: 5rem;
+    font-family: sans-serif;
+}
+
+.card-img {
+    width: 100%;
+    border-radius: 0;
+}
+
+.more-info {
+    margin: 5rem 0 0 0;
+}
+
+.img-thumbnail {
+    position: relative;
+    margin: 0;
+    border: 0;
+    background-color: transparent;
+}
+
+.time-price {
+    padding: 0;
+}
+
+h2 {
+    color: #696969;
+    margin-bottom: 2rem;
+}
+
+
+/*
+@media screen and (min-width:768px){
+	.card, .card-img {
+		width: 100vh;
+	}
+}
+	*/
+
+.footer {
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    background-color: #7C7C7C;
+    color: white;
+    height: 60px;
+}

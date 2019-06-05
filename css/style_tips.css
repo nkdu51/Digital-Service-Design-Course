@@ -1,0 +1,94 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+     color: gray;
+}
+main{
+    color: #7C7C7C;
+    margin-top: 120px;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    color: grey !important;
+}
+
+.navimg {
+    margin-right: 10px;
+}
+
+.nav-link {
+    padding: 0;
+    color: grey !important;
+}
+
+li.nav-item.active,
+li.nav-item.dropdown.active {
+    margin-right: 25px;
+}
+
+a.dropdown-item.dropdown-toggle {
+    padding-left: 15px;
+}
+
+.dropdown-menu.thingsToDo,
+div.dropdown-menu.show {
+    margin: 10px;
+}
+
+ul.dropdown-menu.attractions.show {
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.divider {
+    margin: 10px 0 30px 0;
+}
+
+.card{
+    border:none;
+}
+
+h2.card-title{
+    padding-top: 250px;
+}
+
+.home-map{
+    position: relative;
+    text-align: center;
+}
+
+.map-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container-fluid{
+	width: 95%;
+}
+.txt-l{
+	height: 600px;
+	background-color: #F5F5F5;
+}
+.txt-r{
+	height: 600px;
+	background-color: #F5F5F5;
+}
+.content{
+	padding: 20px;
+}
+.footer{
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    background-color: #7C7C7C;
+    color: white;
+    height: 60px;
+}
